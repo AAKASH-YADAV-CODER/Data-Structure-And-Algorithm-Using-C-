@@ -1,0 +1,9 @@
+{
+    "code-runner.runInTerminal": true,
+    "terminal.integrated.cursorStyle": "line",
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 60,
+    "editor.fontWeight": "normal",
+    "C_Cpp.vcFormat.newLine.beforeCatch": true
+}
